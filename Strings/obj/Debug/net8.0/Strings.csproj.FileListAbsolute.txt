@@ -1,0 +1,15 @@
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/bin/Debug/net8.0/Strings
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/bin/Debug/net8.0/Strings.deps.json
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/bin/Debug/net8.0/Strings.runtimeconfig.json
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/bin/Debug/net8.0/Strings.dll
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/bin/Debug/net8.0/Strings.pdb
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/obj/Debug/net8.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/obj/Debug/net8.0/Strings.AssemblyInfoInputs.cache
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/obj/Debug/net8.0/Strings.AssemblyInfo.cs
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/obj/Debug/net8.0/Strings.csproj.CoreCompileInputs.cache
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/obj/Debug/net8.0/Strings.sourcelink.json
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/obj/Debug/net8.0/Strings.dll
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/obj/Debug/net8.0/refint/Strings.dll
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/obj/Debug/net8.0/Strings.pdb
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/obj/Debug/net8.0/Strings.genruntimeconfig.cache
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/Strings/obj/Debug/net8.0/ref/Strings.dll

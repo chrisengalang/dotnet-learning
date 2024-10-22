@@ -1,0 +1,15 @@
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/bin/Debug/net8.0/StringFormatting
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/bin/Debug/net8.0/StringFormatting.deps.json
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/bin/Debug/net8.0/StringFormatting.runtimeconfig.json
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/bin/Debug/net8.0/StringFormatting.dll
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/bin/Debug/net8.0/StringFormatting.pdb
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/obj/Debug/net8.0/StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/obj/Debug/net8.0/StringFormatting.AssemblyInfoInputs.cache
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/obj/Debug/net8.0/StringFormatting.AssemblyInfo.cs
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/obj/Debug/net8.0/StringFormatting.csproj.CoreCompileInputs.cache
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/obj/Debug/net8.0/StringFormatting.sourcelink.json
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/obj/Debug/net8.0/StringFormatting.dll
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/obj/Debug/net8.0/refint/StringFormatting.dll
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/obj/Debug/net8.0/StringFormatting.pdb
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/obj/Debug/net8.0/StringFormatting.genruntimeconfig.cache
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringFormatting/obj/Debug/net8.0/ref/StringFormatting.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StringBuiilderDemo/1.0.0": {
+        "runtime": {
+          "StringBuiilderDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringBuiilderDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

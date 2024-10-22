@@ -1,0 +1,15 @@
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/chrisengalang/Repositories/dotnet/dotnet-learning/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
