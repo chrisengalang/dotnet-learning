@@ -1,0 +1,15 @@
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/bin/Debug/net8.0/TodoConsoleApp
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/bin/Debug/net8.0/TodoConsoleApp.deps.json
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/bin/Debug/net8.0/TodoConsoleApp.runtimeconfig.json
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/bin/Debug/net8.0/TodoConsoleApp.dll
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/bin/Debug/net8.0/TodoConsoleApp.pdb
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/obj/Debug/net8.0/TodoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/obj/Debug/net8.0/TodoConsoleApp.AssemblyInfoInputs.cache
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/obj/Debug/net8.0/TodoConsoleApp.AssemblyInfo.cs
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/obj/Debug/net8.0/TodoConsoleApp.csproj.CoreCompileInputs.cache
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/obj/Debug/net8.0/TodoConsoleApp.sourcelink.json
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/obj/Debug/net8.0/TodoConsoleApp.dll
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/obj/Debug/net8.0/refint/TodoConsoleApp.dll
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/obj/Debug/net8.0/TodoConsoleApp.pdb
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/obj/Debug/net8.0/TodoConsoleApp.genruntimeconfig.cache
+/Users/chrisengalang/Repositories/dotnet-learning/Exercises/TodoConsoleApp/obj/Debug/net8.0/ref/TodoConsoleApp.dll

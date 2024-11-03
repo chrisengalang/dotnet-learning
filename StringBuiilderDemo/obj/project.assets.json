@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringBuiilderDemo/StringBuiilderDemo.csproj",
+      "projectUniqueName": "/Users/chrisengalang/Repositories/dotnet-learning/StringBuiilderDemo/StringBuiilderDemo.csproj",
       "projectName": "StringBuiilderDemo",
-      "projectPath": "/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringBuiilderDemo/StringBuiilderDemo.csproj",
+      "projectPath": "/Users/chrisengalang/Repositories/dotnet-learning/StringBuiilderDemo/StringBuiilderDemo.csproj",
       "packagesPath": "/Users/chrisengalang/.nuget/packages/",
-      "outputPath": "/Users/chrisengalang/Repositories/dotnet/dotnet-learning/StringBuiilderDemo/obj/",
+      "outputPath": "/Users/chrisengalang/Repositories/dotnet-learning/StringBuiilderDemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/chrisengalang/.nuget/NuGet/NuGet.Config"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.8_2/libexec/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
