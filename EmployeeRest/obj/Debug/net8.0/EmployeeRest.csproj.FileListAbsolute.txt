@@ -32,3 +32,17 @@
 /Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/obj/Debug/net8.0/EmployeeRest.pdb
 /Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/obj/Debug/net8.0/EmployeeRest.genruntimeconfig.cache
 /Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/obj/Debug/net8.0/ref/EmployeeRest.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Npgsql.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/chrisengalang/Repositories/dotnet-learning/EmployeeRest/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
